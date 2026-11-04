@@ -1,63 +1,65 @@
-# Hi, I'm Yunsu.
+
+<div align="left">
+
+<sub>⌁ ~/YunSu-bear</sub>
+
+# 안녕하세요, 윤수입니다.
+
+<sub>Backend · API · Automation · Side Projects</sub>
+
 <br>
 
-### Tech Stack
+### 🟠 기술 스택
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-555555?style=flat-square)
+<img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" height="36" alt="Python, TypeScript, JavaScript" />
+
+`SQL`
 
 **Backend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-444444?style=flat-square)
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="36" alt="FastAPI" />
+
+`REST API` · `API Integration`
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite&theme=dark" height="36" alt="React, Next.js, Vite" />
 
 **Database**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" height="36" alt="PostgreSQL, MySQL, Redis" />
+
+<sub>MariaDB · PostgreSQL · Redis</sub>
 
 **Infrastructure & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark" height="36" alt="Docker, Linux, Git, GitHub" />
 
 **Automation**
 
-![Python Automation](https://img.shields.io/badge/Python_Automation-3776AB?style=flat-square&logo=python&logoColor=white)
-![Brity RPA](https://img.shields.io/badge/Brity_RPA-555555?style=flat-square)
+`Brity RPA` · `Python Automation`
 
 <br>
-
-### Around here
-
-| Area | What I do |
-| :--- | :--- |
-| Backend & API | Services, integrations, and system design |
-| Automation | Workflow automation and repetitive task reduction |
-| Web | Internal tools, dashboards, and web applications |
-| Side Projects | Small experiments and things I wanted to build |
-
-<br>
-
-### Some repositories
-
-- [jarvis](https://github.com/YunSu-bear/jarvis)
-- [Work_Process_Tycoon](https://github.com/YunSu-bear/Work_Process_Tycoon)
-- [NAS_DashBoard](https://github.com/YunSu-bear/NAS_DashBoard)
 
 ---
 
-*Just a place to keep things I've worked on.*
+### 🟠 제가 하는 일
+
+**Backend & API**  
+서비스 개발, 외부 시스템 연동, API 설계
+
+**Automation**  
+반복 업무 자동화, 업무 프로세스 개선
+
+**Personal Projects**  
+생각나는 것들을 직접 만들어보는 중
+
+<br>
+
+---
+
+<sub><i>⌁ 그냥 이것저것 만들어서 모아두는 공간입니다.</i></sub>
+
+</div>
