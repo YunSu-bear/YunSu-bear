@@ -1,9 +1,4 @@
 # Hi, I'm Yunsu.
-
-Mostly working on backend development, APIs, and automation.
-
-I also build random things whenever something comes to mind.
-
 <br>
 
 ### Tech Stack
